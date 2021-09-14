@@ -1,0 +1,9 @@
+main { margin-top: 8em; margin-bottom: 2em; }
+
+.card { margin-bottom: 1em; }
+.colores { background: #000; color: #FFF; }
+.colores ul { padding: 0; margin: 0; list-style: none; }
+.colores ul li { margin-right: 0.5em; display: inline-block; }
+.colores ul li span { background: #AAA; font-size: 0.8em; padding: 0.1em 0.8em 0.2em 0.8em; border-radius: 1em; text-transform: lowercase; text-shadow: #000 1px 0 4px; }
+
+.nocolores { font-size: 0.9em; text-align: center; padding: 1em; opacity: 0.8; }
